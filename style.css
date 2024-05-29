@@ -1,0 +1,15 @@
+:root {
+    --primary-color: #007bff; /* Первинний колір */
+    --secondary-color: #6c757d; /* Вторинний колір */
+    --accent-color: #ffc107; /* Акцентний колір */
+    --background-color: #f8f9fa; /* Колір фону */
+    /* Додайте інші кольори тут */
+}
+
+/* Приклад використання змінних */
+body {
+    background-color: var(--background-color);
+    color: var(--primary-color);
+}
+
+/* Інші стилі тут */
